@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Camera Pro",
+  "description": "An advanced DSLR-style professional camera app featuring manual controls, multi-mode captures, and comprehensive analysis tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
